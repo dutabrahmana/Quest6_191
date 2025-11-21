@@ -1,4 +1,4 @@
 package com.example.mvvm.model
 
-class Siswa {
-}
+data class Siswa(
+
